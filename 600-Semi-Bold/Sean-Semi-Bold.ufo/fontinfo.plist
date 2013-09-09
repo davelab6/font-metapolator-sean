@@ -31,9 +31,9 @@
 	<key>openTypeHheaLineGap</key>
 	<integer>90</integer>
 	<key>openTypeNameVersion</key>
-	<string>Version 001.000</string>
+	<string>Version 001.001</string>
 	<key>openTypeNameUniqueID</key>
-	<string>FontForge 2.0 : Sean : 25-8-2013</string>
+	<string>FontForge 2.0 : Sean : 9-9-2013</string>
 	<key>openTypeOS2Panose</key>
 	<array>
 		<integer>2</integer>
